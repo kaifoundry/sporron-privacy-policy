@@ -1,4 +1,4 @@
-Here's a custom, professional, and unique `README.md` file for your **KILT Privacy Policy and Terms & Conditions** page project:
+ **KILT Privacy Policy and Terms & Conditions** :
 
 ---
 
