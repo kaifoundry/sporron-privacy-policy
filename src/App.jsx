@@ -12,8 +12,8 @@ function App() {
     <>
       <Suspense fallback={<Spinner />}>
         <Routes>
+          <Route path="/" element={<PrivacyPolicy />} />
           <Route path="/terms-and-condition" element={<TermsAndConditions />} />
-          <Route path="/privacy" element={<PrivacyPolicy />} />
         </Routes>
       </Suspense>
     </>
